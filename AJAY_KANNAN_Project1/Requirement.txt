@@ -1,0 +1,9 @@
+README
+
+Steps to Execute Code:
+
+1. Install numpy and pandas.
+2. Run the msin.ipynb (all cells).
+3. The results will be saved in Results.csv
+
+

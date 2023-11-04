@@ -1,0 +1,7 @@
+Read me -
+
+1. Install the numpy and scipy packages.
+2. Run main.py to start the program.
+3. After running the program, the results.csv file will be generated in the same directory as the main.py file.
+4. The results.csv file contains the results of the program.
+
